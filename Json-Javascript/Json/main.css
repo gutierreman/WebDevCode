@@ -1,0 +1,24 @@
+
+#lista{
+  display:flex;
+}
+.amigo{
+  width: 300px;
+    background-color: red;
+    font-family:sans-serif;
+    margin:10px;
+}
+
+.nombre{
+  height:200px;
+  background-color: blue;
+}
+.telefono{
+  font-size: 30px;
+  background-color: #f0f0f0;
+}
+
+.direccion{
+  font-size: 20px;
+  background-color: #f5f5f5;
+}
