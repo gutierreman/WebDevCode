@@ -1,1 +1,2 @@
 
+Use of Javascript and Json to build HTML code.
