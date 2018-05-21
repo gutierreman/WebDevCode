@@ -1,0 +1,33 @@
+#elemento{
+    background-color:orange;
+    font-size:50px;
+    color:white;
+
+}
+
+@media only screen and (max-width: 500px){
+  #elemento{
+      color:green;
+  }
+
+  #elemento img{
+    display:none;
+  }
+}
+
+#frida{
+  display:none;
+}
+
+@media only screen and (max-width:632px){
+  img{
+    width:100%;
+
+  }
+
+  #frida{
+    display:block;
+  }
+
+
+}
