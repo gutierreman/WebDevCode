@@ -1,1 +1,2 @@
 
+Pair of excercises that build a simple "calculator" display with html+css+javascript. You input numbers from 0-10 and they are added and/or displayed using divs of different sizes.
