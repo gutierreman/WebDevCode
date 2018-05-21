@@ -1,2 +1,4 @@
 
-Pair of examples of ways to create a responsive design, through screen size or using flex in CSS.
+Pair of examples of ways to create a responsive design, through @media or using flex in CSS.
+
+Change Browser Screen Size to try.
