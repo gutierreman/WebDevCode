@@ -1,1 +1,2 @@
 
+Pair of examples of ways to create a responsive design, through screen size or using flex in CSS.
